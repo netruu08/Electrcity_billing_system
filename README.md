@@ -1,1 +1,2 @@
 # Electrcity_billing_system
+An Electricity Billing System is a software application designed to automate the billing process for electricity consumption. The system helps in calculating and generating bills for users based on the amount of electricity they consume. It typically works by storing customer data, meter readings, and calculating the total cost of electricity used based on predefined tariffs.
